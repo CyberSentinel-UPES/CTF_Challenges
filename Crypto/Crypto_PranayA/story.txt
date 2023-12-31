@@ -1,0 +1,3 @@
+Oh wow, a plain text file called 'flag.txt'. Surely it has the flag inside? Right?
+...It's empty.
+Or is it?
