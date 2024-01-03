@@ -1,0 +1,5 @@
+In the mysterious realm of CryptoCity, the inhabitants thrived on the promises of blockchain technology. Amidst the bustling blockchain metropolis stood a smart contract known as the "CryptoVault," safeguarding the city's digital treasures.
+
+Rumors spread like wildfire about an ingenious hacker, known by the alias "PhantomCypher," who discovered a vulnerability lurking within the CryptoVault's defenses. This vulnerability, a reentrancy flaw, allowed access to withdraw more digital assets than stored—a coveted exploit for any cunning crypto-thief.
+
+Word of this exploit reached the ears of the CryptoCity's elite, triggering a race among skilled hackers and crypto-enthusiasts to uncover the secret hidden within the CryptoVault. The CryptoCity's governing body, aware of the impending chaos, devised a Capture The Flag challenge to test and educate aspiring hackers on the risks of reentrancy vulnerabilities.
