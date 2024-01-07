@@ -1,0 +1,2 @@
+We've found this corrupted flag file and we know for certain it was a image before corruption.
+See if you can fix it and restore the original contents.
